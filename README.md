@@ -1,4 +1,4 @@
-Open this link to lead to the project 
+Open this link to lead to the project in your google colab
 
 https://colab.research.google.com/drive/1A4TDTY6_KdgsCncO21c2TBMdELjogNvo
 
