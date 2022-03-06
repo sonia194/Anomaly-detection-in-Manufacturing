@@ -1,3 +1,7 @@
+Open this link to lead to the project 
+
+https://colab.research.google.com/drive/1A4TDTY6_KdgsCncO21c2TBMdELjogNvo
+
 # Anomaly-detection-in-Manufacturing
 Deep learning is a part of machine learning and is well applied in many areas with messy and unstructured data such as pictures. 
 The inspection in industries manufacturing is an essential requirement because outlier or anomaly can be detected on product manufacturing. Done in the efficient way, that mean by introducing the machine learning and deep learning in the process of anomaly detection, the productivity and the quality of the product can be improved. 
