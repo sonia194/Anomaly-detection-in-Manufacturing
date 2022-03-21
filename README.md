@@ -16,6 +16,6 @@ Deep Learning Models:
 - U-Net 2D (segmentation method)
 - CAE
 
-A lot of thank you to my team partner 
+A lot of thanks to my team partner 
 
 #joelf93
